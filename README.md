@@ -85,15 +85,6 @@ HTML       [██░░░░░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api?username=Bryanhackz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff1a3c&icon_color=3a3aff&text_color=ffffff" alt="Bryanhackz GitHub Stats" width="100%" />
 </div>
 
----
-
-### 🚀 Featured Projects
-
-| PROJECT | DESCRIPTION |
-| :--- | :--- |
-| **[Cyberpunk Portfolio](https://github.com/Bryanhackz/portafolio)** | A fully custom portfolio and sales tool built from scratch with Python, SQLite, and Vanilla JS. Features strict security headers (CSP), CSRF protection, and a custom admin panel. |
-| **[Project Name 2](https://github.com/Bryanhackz)** | Description of your second project. Focus on the problem it solves and the tech stack used. Make it sound professional. |
-
 <br />
 
 ---
