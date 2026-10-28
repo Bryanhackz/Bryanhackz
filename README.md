@@ -13,7 +13,7 @@
   <p>I build secure, fast, and results-oriented web architectures.</p>
 </div>
 
-<!-- CONTACTO Y ENLACES (BADGES SVG) -->
+<!-- CONTACTO Y ENLACES -->
 <div align="center">
   <a href="https://bryanhackz.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-bryanhackz.dev-ff1a3c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -30,7 +30,7 @@
 
 ---
 
-<!-- SOBRE MÍ (TÍTULO SVG) -->
+<!-- SOBRE MÍ -->
 <div align="left">
   <img src="https://img.shields.io/badge/ABOUT_ME-ff1a3c?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
 </div>
@@ -63,7 +63,7 @@
 
 ---
 
-<!-- TECNOLOGÍAS (TÍTULO SVG) -->
+<!-- TECNOLOGÍAS -->
 <div align="left">
   <img src="https://img.shields.io/badge/TECH_STACK-3a3aff?style=for-the-badge&logo=codeforces&logoColor=white" alt="Tech Stack" />
 </div>
@@ -90,7 +90,7 @@
 
 ---
 
-<!-- ESTADÍSTICAS (TÍTULO SVG) -->
+<!-- ESTADÍSTICAS -->
 <div align="left">
   <img src="https://img.shields.io/badge/GITHUB_STATS-ff1a3c?style=for-the-badge&logo=github&logoColor=white" alt="Stats" />
 </div>
@@ -161,7 +161,7 @@
 
 ---
 
-<!-- PROYECTOS (TÍTULO SVG) -->
+<!-- PROYECTOS -->
 <div align="left">
   <img src="https://img.shields.io/badge/FEATURED_PROJECTS-ff1a3c?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects" />
 </div>
