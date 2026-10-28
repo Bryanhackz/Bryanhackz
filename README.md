@@ -15,10 +15,19 @@
 
 <br />
 
+<!-- BOTONES CON ICONOS (Colores del Token: Rojo #ff1a3c / Azul #3a3aff) -->
 <div align="center">
-  <a href="https://bryanhackz.dev"><kbd> [ WEBSITE ] </kbd></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brayanzulueta"><kbd> [ LINKEDIN ] </kbd></a> &nbsp;&nbsp;
-  <a href="mailto:br4yangil006@gmail.com"><kbd> [ EMAIL ] </kbd></a>
+  <a href="https://bryanhackz.dev">
+    <img src="https://img.shields.io/badge/WEBSITE-bryanhackz.dev-ff1a3c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/brayanzulueta">
+    <img src="https://img.shields.io/badge/LINKEDIN-3a3aff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:br4yangil006@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff1a3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
@@ -42,24 +51,82 @@
 
 ### <code>root@bryanhackz:~# list_modules --tech-stack</code>
 
-| FRONTEND | BACKEND & DB | TOOLS & ENV |
-| :--- | :--- | :--- |
-| <code>HTML5</code> | <code>Python 3.11+</code> | <code>Git / GitHub</code> |
-| <code>CSS3</code> | <code>SQLite</code> | <code>Linux / Bash</code> |
-| <code>Vanilla JS</code> | <code>SQL</code> | <code>Docker</code> |
-| <code>TypeScript</code> | <code>WSGI / Stdlib</code> | <code>Godot (GDScript)</code> |
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-ff1a3c?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3a3aff?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Python-3a3aff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-ff1a3c?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL-3a3aff?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <br/>
+  <!-- Tools & Env -->
+  <img src="https://img.shields.io/badge/Git-ff1a3c?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-3a3aff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-ff1a3c?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-3a3aff?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Godot-ff1a3c?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+</div>
+
+<br />
 
 ---
 
 ### <code>root@bryanhackz:~# system_check --languages</code>
 
-```text
-JAVASCRIPT [██████████████████░░░░░░░░░░░░░░░░░░░░░░] 47%
-GDSCRIPT   [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27%
-PYTHON     [████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
-SQL        [███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  8%
-HTML       [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  6%
-```
+<div align="left">
+
+  <!-- JavaScript -->
+  <p>
+    <img src="https://api.iconify.design/logos:javascript.svg" width="18" height="18" valign="middle" /> 
+    <strong>JavaScript (47%)</strong>
+  </p>
+  <div style="background-color: #1a1a24; border-radius: 8px; width: 100%; height: 10px; margin-bottom: 15px;">
+    <div style="background-color: #ff1a3c; width: 47%; height: 100%; border-radius: 8px; box-shadow: 0 0 10px rgba(255,26,60,0.5);"></div>
+  </div>
+
+  <!-- GDScript -->
+  <p>
+    <img src="https://api.iconify.design/logos:godot-icon.svg" width="18" height="18" valign="middle" /> 
+    <strong>GDScript (27%)</strong>
+  </p>
+  <div style="background-color: #1a1a24; border-radius: 8px; width: 100%; height: 10px; margin-bottom: 15px;">
+    <div style="background-color: #3a3aff; width: 27%; height: 100%; border-radius: 8px; box-shadow: 0 0 10px rgba(58,58,255,0.5);"></div>
+  </div>
+
+  <!-- Python -->
+  <p>
+    <img src="https://api.iconify.design/logos:python.svg" width="18" height="18" valign="middle" /> 
+    <strong>Python (12%)</strong>
+  </p>
+  <div style="background-color: #1a1a24; border-radius: 8px; width: 100%; height: 10px; margin-bottom: 15px;">
+    <div style="background-color: #ff1a3c; width: 12%; height: 100%; border-radius: 8px; box-shadow: 0 0 10px rgba(255,26,60,0.5);"></div>
+  </div>
+
+  <!-- SQL -->
+  <p>
+    <img src="https://api.iconify.design/logos:mysql.svg" width="18" height="18" valign="middle" /> 
+    <strong>SQL (8%)</strong>
+  </p>
+  <div style="background-color: #1a1a24; border-radius: 8px; width: 100%; height: 10px; margin-bottom: 15px;">
+    <div style="background-color: #3a3aff; width: 8%; height: 100%; border-radius: 8px; box-shadow: 0 0 10px rgba(58,58,255,0.5);"></div>
+  </div>
+
+  <!-- HTML -->
+  <p>
+    <img src="https://api.iconify.design/logos:html-5.svg" width="18" height="18" valign="middle" /> 
+    <strong>HTML (6%)</strong>
+  </p>
+  <div style="background-color: #1a1a24; border-radius: 8px; width: 100%; height: 10px; margin-bottom: 15px;">
+    <div style="background-color: #ff1a3c; width: 6%; height: 100%; border-radius: 8px; box-shadow: 0 0 10px rgba(255,26,60,0.5);"></div>
+  </div>
+
+</div>
+
+<br />
 
 ---
 
