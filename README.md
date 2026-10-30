@@ -1,94 +1,76 @@
 <div align="center">
-<pre>
-██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
-██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
-██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
-              H A C K Z
-</pre>
-
-  <p><strong>Full-Stack Developer & Cybersecurity Enthusiast</strong></p>
-  <p><em>"I build secure, fast, and results-oriented web architectures."</em></p>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://bryanhackz.dev">
-    <img src="https://img.shields.io/badge/WEBSITE-bryanhackz.dev-ff1a3c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/brayanzulueta">
-    <img src="https://img.shields.io/badge/LINKEDIN-3a3aff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:br4yangil006@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ff1a3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br />
-
----
-
-### 👤 About Me
-
-- **Name:** Brayan Zulueta (Bryanhackz)
-- **Focus:** Web Security, Clean Architecture, Python, Vanilla JS
-- **Current Project:** Cyberpunk Portfolio (Python stdlib + SQLite)
-- **Philosophy:** *"Security is not a feature, it's the foundation."*
-- **Contact:** [br4yangil006@gmail.com](mailto:br4yangil006@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-ff1a3c?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3a3aff?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br/>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Python-3a3aff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQLite-ff1a3c?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL-3a3aff?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <br/>
-  <!-- Tools & Env -->
-  <img src="https://img.shields.io/badge/Git-ff1a3c?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-3a3aff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-ff1a3c?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-3a3aff?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Godot-ff1a3c?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
-</div>
-
----
-
-### 💻 Language Proficiency
-
+  
 ```text
-JAVASCRIPT [██████████████████░░░░░░░░░░░░░░░░░░░░░░] 47%
-GDSCRIPT   [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27%
-PYTHON     [████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
-SQL        [███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  8%
-HTML       [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  6%
+██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██║  ██║██╔══██╗██╔════╝██║ ██╔╝╚══███╔╝
+██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║███████║███████║██║     █████╔╝   ███╔╝ 
+██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══██║██╔══██║██║     ██╔═██╗  ███╔╝  
+██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██║██║  ██║╚██████╗██║  ██╗███████╗
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
+
+### `> Backend & Infrastructure Engineer`
+### `> Security is not a feature, it's the foundation.`
+
+</div>
+
+---
+
+### 🧬 Core Philosophy
+I build **zero-dependency, security-first systems**. No bloated frameworks, no black boxes. I believe in understanding the protocol at its lowest level (WSGI, TCP/IP, HTTP) and applying rigorous security postures (Strict CSP, HSTS, COOP/CORP, OWASP Top 10) by default.
+
+- 🔭 Currently architecting distributed systems and infrastructure components in pure Python.
+- 🛡️ Focused on System Design, Concurrency, and Defensive Programming.
+- ⚙️ **Stack:** Python 3.11+ (Standard Library), SQLite (WAL), Vanilla JS (ES Modules), WSGI.
+
+---
+
+### 🏗️ Featured Infrastructure & Systems
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[wsgi-load-balancer](https://github.com/Bryanhackz/wsgi-load-balancer)** | Thread-safe reverse proxy with Round Robin distribution, background health checks, and SQLite state. | `Python`, `WSGI`, `Threading` |
+| **[rate-limiter-middleware](https://github.com/Bryanhackz/rate-limiter-middleware)** | Production-ready Token Bucket rate limiter. Prevents race conditions using SQLite `BEGIN IMMEDIATE`. | `Python`, `Concurrency`, `SQLite` |
+| **[wsgi-starter-kit](https://github.com/Bryanhackz/wsgi-starter-kit)** | Foundational WSGI server with strict HTTP headers (CSP, HSTS, COOP, CORP) and SSR. | `Python`, `Security`, `HTTP` |
+
+### 🛠️ Web Applications & Tools
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[github-metrics-dashboard](https://github.com/Bryanhackz/github-metrics-dashboard)** | Secure proxy dashboard for GitHub analytics. Features SQLite caching and SSRF mitigation. | `Python`, `Vanilla JS`, `Proxy` |
+| **[dev-tools-suite](https://github.com/Bryanhackz/dev-tools-suite)** | Privacy-first client-side utilities (Passwords, JWT, Base64). Uses Rejection Sampling for CSPRNG. | `Vanilla JS`, `CSP`, `Crypto` |
+| **[quote-generator](https://github.com/Bryanhackz/quote-generator)** | Interactive client-side quote estimator with sanitized `mailto:` handoff. | `Vanilla JS`, `DOM`, `Sanitization` |
+
+### 🤖 CLI & Automation
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[price-scraper](https://github.com/Bryanhackz/price-scraper)** | Ethical web scraper tracking competitor prices with fail-fast network handling. | `Python`, `urllib`, `HTMLParser` |
+| **[report-generator](https://github.com/Bryanhackz/report-generator)** | CLI that extracts SQLite data, builds CSV reports, and delivers them via SMTP. | `Python`, `SQLite`, `smtplib` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryanhackz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff1a3c&icon_color=3a3aff&text_color=ffffff" alt="Bryanhackz GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryanhackz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Bryanhackz GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanhackz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-gil-68b70338b/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br4yangil006@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bryanhackz)
+
 </div>
 
 <br />
 
----
-
 <div align="center">
-  <p><i>"Security is not a feature, it's the foundation."</i></p>
+  <i>"The code is not good until it cannot be bad. If an attacker can exploit it, a user will break it first."</i>
 </div>
