@@ -25,12 +25,34 @@ I build **zero-dependency, security-first systems**. No bloated frameworks, no b
 
 ---
 
+### 🏗️ System Architecture
+
+All my infrastructure components are designed to work together as a cohesive, distributed system. No external dependencies, no Docker required.
+
+```mermaid
+graph TD
+    Client[Client / Browser] -->|HTTP Request| LB(wsgi-load-balancer)
+    LB -->|Round Robin| RL(rate-limiter-middleware)
+    RL -->|Allowed| App1[WSGI Web App Node 1]
+    RL -->|Allowed| App2[WSGI Web App Node 2]
+    RL -.->|429 Too Many Requests| Client
+    
+    App1 -->|Publish Event| Broker(sqlite-message-broker)
+    App2 -->|Publish Event| Broker
+    Broker -->|Consume| Worker1[Background Worker]
+    
+    Worker1 -->|Ack| Broker
+```
+
+---
+
 ### 🏗️ Featured Infrastructure & Systems
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[wsgi-load-balancer](https://github.com/Bryanhackz/wsgi-load-balancer)** | Thread-safe reverse proxy with Round Robin distribution, background health checks, and SQLite state. | `Python`, `WSGI`, `Threading` |
 | **[rate-limiter-middleware](https://github.com/Bryanhackz/rate-limiter-middleware)** | Production-ready Token Bucket rate limiter. Prevents race conditions using SQLite `BEGIN IMMEDIATE`. | `Python`, `Concurrency`, `SQLite` |
+| **[sqlite-message-broker](https://github.com/Bryanhackz/sqlite-message-broker)** | Asynchronous message queue with at-least-once delivery, visibility timeouts, and worker acks. | `Python`, `SQLite`, `Queue` |
 | **[wsgi-starter-kit](https://github.com/Bryanhackz/wsgi-starter-kit)** | Foundational WSGI server with strict HTTP headers (CSP, HSTS, COOP, CORP) and SSR. | `Python`, `Security`, `HTTP` |
 
 ### 🛠️ Web Applications & Tools
